@@ -1,3 +1,5 @@
+<img width="283" height="279" alt="Nobel_Prize" src="https://github.com/user-attachments/assets/258d1c84-23d6-4614-9cf9-47a12f71da02" />
+
 # 🏆 Nobel Prize Data Analysis Case Study
 
 **Author:** Andreza Eufrasio
